@@ -1,0 +1,5 @@
+{
+  "name": "AI Content Rewriter",
+  "description": "An application to rewrite AI-generated content for YouTube videos, such as scripts for automation channels, to be more engaging and natural-sounding. The app uses the Gemini API to improve the quality of the text up to a 5500 character limit.",
+  "requestFramePermissions": []
+}
